@@ -70,14 +70,14 @@ h3{font-size:1.15rem;margin-bottom:8px}
   isolation:isolate;
   background:linear-gradient(90deg,#06111f 0%,#06111f 34%,rgba(6,17,31,.64) 54%,rgba(6,17,31,.08) 100%)
 }
-.hero-media{position:absolute;inset:0 0 0 42%;z-index:-2}
+.hero-media{position:absolute;inset:0 0 0 42%;z-index:0;pointer-events:none}
 .hero-media img{width:100%;height:100%;object-fit:cover;object-position:53% 52%}
 .hero-media:after{
   content:"";position:absolute;inset:0;background:
   linear-gradient(90deg,#06111f 0%,rgba(6,17,31,.72) 15%,rgba(6,17,31,.05) 62%),
   linear-gradient(0deg,#06111f 0%,transparent 26%)
 }
-.hero-content{padding:112px 0 110px;max-width:720px}
+.hero-content{padding:112px 0 110px;max-width:720px;position:relative;z-index:2}
 .hero .hand{font-family:"Segoe Print","Bradley Hand",cursive;color:#54aaff;font-size:1.18rem;font-weight:700;transform:rotate(-2deg);margin-bottom:18px}
 .hero h1 span{display:block;color:var(--blue2)}
 .hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin:32px 0 28px}
