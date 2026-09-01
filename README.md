@@ -27,8 +27,8 @@ GitHub -> repo -> Settings -> Pages:
 
 Po chwili strona będzie dostępna pod adresem GitHub Pages.
 
-## 4. Domena mathsphere.eu
-Plik `CNAME` jest już przygotowany z domeną `mathsphere.eu`.
+## 4. Domena mathsphere.pl
+Plik `CNAME` jest już przygotowany z domeną `mathsphere.pl`.
 
 Najpierw uruchom stronę na testowym adresie GitHub Pages i sprawdź wszystko.
 Dopiero potem zmieniaj rekordy DNS domeny.
