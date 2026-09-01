@@ -67,6 +67,7 @@ h3{font-size:1.15rem;margin-bottom:8px}
 .menu-btn{display:none;background:none;border:0;color:#fff;padding:8px}
 .hero{
   position:relative;min-height:720px;overflow:hidden;border-bottom:1px solid var(--line);
+  isolation:isolate;
   background:linear-gradient(90deg,#06111f 0%,#06111f 34%,rgba(6,17,31,.64) 54%,rgba(6,17,31,.08) 100%)
 }
 .hero-media{position:absolute;inset:0 0 0 42%;z-index:-2}
