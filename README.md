@@ -51,3 +51,9 @@ Dopiero potem zmieniaj rekordy DNS domeny.
 - poprawiony hero na telefonach — zdjęcie nie wpada już za tło,
 - poprawiona orientacja zdjęcia w sekcji „O mnie”,
 - dodane `?v=2` do CSS/JS i kluczowych zdjęć, żeby telefon nie trzymał starej wersji w cache.
+
+
+## V3 — nowe screeny opinii
+- podmienione screeny opinii na mocniej przycięte i zanonimizowane,
+- dodano 9 nowych screenów w galerii opinii,
+- zaktualizowano opisy sekcji opinii.
