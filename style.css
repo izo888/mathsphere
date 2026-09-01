@@ -202,9 +202,10 @@ h3{font-size:1.15rem;margin-bottom:8px}
   .section{padding:68px 0}
   .header-row{height:68px}
   .brand img{width:185px}
-  .hero-media{left:0;top:0;height:410px;opacity:1}
-  .hero-media:after{background:linear-gradient(180deg,rgba(6,17,31,.22) 0%,#06111f 96%),linear-gradient(90deg,#06111f 0%,transparent 65%)}
-  .hero-content{padding:330px 0 84px}
+  .hero-media{left:0;top:0;height:430px;opacity:1;z-index:0}
+  .hero-media img{object-position:56% 48%}
+  .hero-media:after{background:linear-gradient(180deg,rgba(6,17,31,.08) 0%,rgba(6,17,31,.20) 48%,#06111f 96%),linear-gradient(90deg,#06111f 0%,transparent 72%)}
+  .hero-content{padding:350px 0 84px;position:relative;z-index:2}
   h1{font-size:clamp(2.55rem,12vw,4rem)}
   .hero-actions,.contact-buttons{display:grid;grid-template-columns:1fr}
   .hero-actions .btn,.contact-buttons .btn{width:100%}

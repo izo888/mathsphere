@@ -41,6 +41,13 @@ Dopiero potem zmieniaj rekordy DNS domeny.
 - opcjonalnie dodać politykę prywatności, jeśli włączysz narzędzia śledzące.
 
 ## Kontakt użyty na stronie
-- Messenger: https://www.facebook.com/oskar.bielecki.5?locale=pl_PL
+- Messenger: https://m.me/oskar.bielecki.5
 - Instagram: https://www.instagram.com/ozi_b24/
 - Telefon: 696 554 344
+
+
+## V2 — poprawki
+- wszystkie główne CTA otwierają bezpośrednio rozmowę na Messengerze,
+- poprawiony hero na telefonach — zdjęcie nie wpada już za tło,
+- poprawiona orientacja zdjęcia w sekcji „O mnie”,
+- dodane `?v=2` do CSS/JS i kluczowych zdjęć, żeby telefon nie trzymał starej wersji w cache.
